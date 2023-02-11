@@ -1,0 +1,29 @@
+
+üzerine hoparlör ve mp3 modülü ile sadece buzzer yerine "merdiven inildi", "engel algılandı" gibi komutlar oluşturulabilir.
+
+ses algılama modülü ile soru sorulup cevap alınabilinir.
+
+merdiven = merdiven olup olmadığını kontrol eder.
+
+asansör = asansörün kapısının kapanıp kapanmadığını kontrol eder. VB.
+
+https://www.youtube.com/watch?v=-1W6YwU6AkA
+
+
+
+bir tane buton atanacak. 
+
+buton normalde elle tutulan kısıma yakın olmayacaktır. Tek bir buton olacak ve butona 3 sn basılı tutunca boy ayarlama moduna geçecektir.
+
+cihaz standart olarak 150 cm den başlayarak boy arttırma moduna geçeçektir. tuşa her basıldığında bu değere +5 eklenecektir
+
+3 sn basılı tutunca boy düşürme tekrar 3 sn basılı tutunca boy arttırma moduna geçecektir.
+
+bu şekide algoritma kişinin basyonu hamgi seviyede( kaç cm yükseklikte) tuttuğunu hesaplayacak ve sensörlerden olan uzaklıkları hesaplayarak yüksek engellerin doğru konumunu bulacaktır.
+
+
+https://www.engellilermarketi.com/baston-kaplama-etiketi-ac-9093k&prcolor=1
+
+
+
+sisteme ses ve konuşma modülü eklendikten soanra bluetooth modülü ile kulaklık bağlantısı sağlanabilir. bu sayede görme engelli kişi bir kulaklık aracılığı ile toplumu rahatsız etmeden ve kendi rahatsız olmadan hareket edebilir.

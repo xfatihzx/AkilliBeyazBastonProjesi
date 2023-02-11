@@ -1,0 +1,49 @@
+
+kağıt bant(ince) 2 adet
+
+lehim teli (ince)
+
+dekota(yeterince)
+
+9v pil 2 adet
+
+sıcak silikon tabancası için silikon 3-4 adet
+
+1/4w 0.1r(ohm) direnç (bende var almaya gerek yok)
+
+beyaz basyon (görme engelliler için)
+
+
+----drenc.net----
+
+
+-Arduino (clon) 2 adet
+
+https://www.direnc.net/arduino-uno-r3-smd
+
+-9V power kablosu 2 adet
+
+https://www.direnc.net/9v-power-kablosu
+
+-Anahtar 2 adet
+
+https://www.direnc.net/on/off-anahtar-16mm-isiksiz-yuvarlak
+
+-Jumper kablo (1 adet erkek-erkek, 4 adet dişi-erkek)
+
+https://www.direnc.net/arama?q=jumper+kablo
+
+-ultrasonic ses sensörü 8 adet
+
+https://www.direnc.net/arduino-ultrasonic-sensor-hc-sr04
+
+-delikli plaket
+
+https://www.direnc.net/10x10-delikli-plaket
+
+-buzzer 5 adet
+
+https://www.direnc.net/10x10-delikli-plaket
+
+
+direnç net tutarı: 377.13 tl (yedek parçalar dahil)
