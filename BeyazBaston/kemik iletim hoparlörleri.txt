@@ -1,0 +1,38 @@
+
+
+görme engelliler için en önemli duyu organları kulaklardır. Dolayısıyla yatığımız tüm çalışmalarda outputları görme engelli kişiye
+iletmek için bir bluetooth kulaklığa ihtiyacımız vardır. lakin görme engelli birayin en önemli duyusunu alarak bu geliştirmeyi yapmamız 
+olumlu sonuçlar yerine olumsuz sonuçlar oluşturacaktır.
+
+Bu sonuçlar:
+
+görme engellilerde aşırı kulaklık kullanımına bağlı, kulak iltihapı ve veya iç kulak hastalıkları.
+
+görme engellilerde aşırı kulaklık kullanımına bağlı, işitme kaybı yada işitmede zorluk çekme.
+
+görme engellilerde aşırı kulaklık kullanımına bağlı, kulakta ağrı oluşumu.
+
+dışarıdaki kişilerle iletişimi düşer.
+
+sesli uyaruarda hassasiyet kaybı yaşarlar. 
+
+özellikle motorlu taşıtlara karşı duyarlılıkları düşer.
+
+...
+
+
+bu şekilde bir çok örnek daha verilebilir. Görme engellilerin en önemli duyusu olan duyma duyusunu bu yazden korumamız gereklidir. Burada
+karşımıza çıkan en iyi teknoloji kemik iletim teknolojileridir. Kendi kemik iletim(bluetooth) kulaklığımızı yapıp sisteme entegre ederbilirsek
+görme engellilerin konforu çok artacaktır.
+
+
+V1 1 adet cihaz ile haberleşebilme ve ses iletimi sağlayabilme kabiliyeti.
+
+V2 ses kısma, ses açma, cihazı açma ve kapama fonksyonlarını ekleme ve kullanımı kolaylaştırma.
+
+V3 2 adet cihazdan ses dosyası alabilme ve calabilme.
+
+V4 4 adete kadar cihazdan ses dosyası alabilme ve calabilme kabiliyeti.
+
+yukarıda yer alan tüm versyonlar ar-ge versyonlarıdır, yapılabilirliliği kesin değildir.
+

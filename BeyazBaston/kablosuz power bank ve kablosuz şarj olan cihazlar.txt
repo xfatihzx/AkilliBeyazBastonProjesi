@@ -1,0 +1,15 @@
+
+görme engelliler için yapılan beyaz baston başta olmak zere diğer projelerde çok fazla geliştirme 
+kartı birbirinden bağımsız çalıştığı için her biri ayry ayrı şarj olmak zorundadır. Burada görme
+engellilerin şarj konusunda sıkıntı yaşamamaları için kablosuz şarj modulleri yapılmalıdır.
+
+
+V1 1 çihazı kablosuz şarj edebilen pover bank ar-gesi.
+
+V2 2 cihazı kablosuz  şarj edebilen power bank ar-gesi.
+
+V3 gerekl sayıda cihazı kablosuz şarj edebilen power bank ar-gesi.
+
+V4 katlanabilen bir yapıda, kablosuz şarj yapabien power bak ar-gesi.
+
+V5 dockstation ar-gesi.

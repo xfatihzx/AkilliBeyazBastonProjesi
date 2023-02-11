@@ -1,0 +1,7 @@
+
+
+ bu projede görme engelli insanların karşıdan karşıya geçme, alışveriş yapma, not alma vb birçok olayı teknoloji(kamera) ve yapay zeka desteği ile
+yapmaktır.
+
+V1 yapay zeka ve kullanılacak geliştirme kartının yapay zeka kullanımına yeterli olup olmaığı ve hangi gelişitirme kartı seçilmesi gerektiğini ve/veya 
+hangi kartın daha perfonmaslı çalıştığını bulmak için arge çalışması yapılacaktır.

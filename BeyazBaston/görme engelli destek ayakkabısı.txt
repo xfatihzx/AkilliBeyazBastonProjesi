@@ -1,0 +1,25 @@
+
+
+görme engelliler için akıllı ayakkabı. 
+
+	Ayakkabı görme engellilerin hayatını kolaylaştırmak için tasarlanacaktır. Özellikle çukur merdiver ve ışıklarda karşıya
+ geçmek için görme enggellilere yardımcı olmak için tasarlanacaktır. ayrıca kendi içinde versonlara sahip olacaktır.
+
+v1 anten ve batarya sistemleri ile gerekli sensörlerle iletişim kurma becerisi.
+
+v2 çukur çıkıntı vb engelleri kullanıcıya iletme.
+
+v3 yürüyüş sırasında kendini şarj edebilme kabiliyeti.
+
+v4 beyaz baston ve diğer projelerle entegre çalışabilme kabiliyeti.
+
+v5 her ayakkabıya uygun bir tasarım halıne getirmek için arge çalışmaları.
+
+v6 gerekli görülmesi durumunda kamera mödülü eklenmesi.
+
+
+her version bir önceki versyonumn geliştirilmesi ve üstüne eklenmesi ile gelecektir. Ayrıca 
+her version kendi içinde arge gerektirdiği için yapılabilirliliği kağıt üzerinde
+denendikten sonra proje denemeleri başlayacaktır. Bunun yanında ar-ge çalışmaları olduğu
+için yapılabilirliliği kesin değildir.
+
