@@ -66,6 +66,8 @@ Prototip bireyin merdivende olduğunu algıladıktan sonra merdivenden iniyor mu
 
 Proje geliştirmesi Üniversite yada Teknofest tarafından fonlanmama ve destek görmemesi nedeniyle sonlandırıldı.
 
+Not: Üniversitenin bünyesinde 3d yazıcı olmasına Rağmen 3D yazıcıya ulaşımımız sağlanmadığı için proje dekota ile yapılmıştır.
+
 Projeye ilişkin görüntü ve videolar:
 
 ![20220307_112713](https://user-images.githubusercontent.com/90801002/218228055-e46c74a7-36a6-47cd-892b-98a01a852093.jpg)
