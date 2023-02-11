@@ -1,0 +1,15 @@
+görme engelli bastonları için 
+
+
+ışık şiddetini ölçen sensorlü ledler(power led, mantar led, smd led vs.) 
+
+amaç - 
+
+karanlık ortamları aydınlatmak ve sensörlerin doğru çalışmasını sağlamak. 
+
+yayaların ve araçların, görme engelli kişiyi daha rahat görmesini sağlamak. 
+
+görme engelliler için farkındalığı arttırmak.
+
+fotograf çekme ve video kontrolleri sırasında yetersiz ışık sorununu çözmek.
+
