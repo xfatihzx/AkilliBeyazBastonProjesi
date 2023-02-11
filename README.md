@@ -64,6 +64,8 @@ Bizim kısıtlı bir zamanımız ve bütçemiz olduğu için 5 adet ultrasonic m
 
 Prototip bireyin merdivende olduğunu algıladıktan sonra merdivenden iniyor mu çıkıyor mu bunu da alğılayabiliyor. Projeye merdiven inme yada çokma işlemi tamamlandı mı? kontrolunü vereçek fonksyonu zaman yetişmediği için eleyemedim. ayrıca beyaz bastonlar her ne kadar çukur ve çıkıntıları algılasalar bile bireylerin bu etmenlere yeterince hızlı tepki veremediğini gözlemledik ve olası kazaları engellemek için sesli uyarı eklendi.
 
+Ayrıca Prototip ürün dengede olup olmadığını da algılayabiliyor. Bu sayede sensörlerinin doğru yere baktığını kullanıcı anlayabiliyor. Eğer cihaz dengede değilse kullanıcıya sesli uyarı da veriyor.
+
 Proje geliştirmesi Üniversite yada Teknofest tarafından fonlanmama ve destek görmemesi nedeniyle sonlandırıldı.
 
 Not: Üniversitenin bünyesinde 3d yazıcı olmasına Rağmen 3D yazıcıya ulaşımımız sağlanmadığı için proje dekota ile yapılmıştır.
