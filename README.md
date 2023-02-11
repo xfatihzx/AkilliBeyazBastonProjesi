@@ -64,6 +64,19 @@ Bizim kısıtlı bir zamanımız ve bütçemiz olduğu için 5 adet ultrasonic m
 
 Prototip bireyin merdivende olduğunu algıladıktan sonra merdivenden iniyor mu çıkıyor mu bunu da alğılayabiliyor. Projeye merdiven inme yada çokma işlemi tamamlandı mı? kontrolunü vereçek fonksyonu zaman yetişmediği için eleyemedim. ayrıca beyaz bastonlar her ne kadar çukur ve çıkıntıları algılasalar bile bireylerin bu etmenlere yeterince hızlı tepki veremediğini gözlemledik ve olası kazaları engellemek için sesli uyarı eklendi.
 
+Proje geliştirmesi Üniversite yada Teknofest tarafından fonlanmama ve destek görmemesi nedeniyle sonlandırıldı.
+
+Projeye ilişkin görüntü ve videolar:
+
 ![20220307_112713](https://user-images.githubusercontent.com/90801002/218228055-e46c74a7-36a6-47cd-892b-98a01a852093.jpg)
 
-Proje geliştirmesi Üniversite yada Teknofest tarafından fonlanmama ve destek görmemesi nedeniyle sonlandırıldı.
+![20220307_112717](https://user-images.githubusercontent.com/90801002/218228116-a8c92800-cfdd-45cf-adad-0987c65e9bce.jpg)
+
+![20220228_162435](https://user-images.githubusercontent.com/90801002/218228751-b298e677-5723-48ed-acf4-a8d0f5e6eb49.jpg)
+
+
+https://user-images.githubusercontent.com/90801002/218228356-a2efd645-d223-4d73-9665-b746f694169f.mp4
+
+
+
+
